@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+@import "tailwindcss";
+@plugin "daisyui";
+html,
+footer {
+  background-color: white;
+}
+body {
+  font-family: "Lexend", sans-serif;
+  background-color: white;
+  color: black;
+}
